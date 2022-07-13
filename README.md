@@ -3,7 +3,7 @@
 Steve is a recent financial graduate aiming to help his parents with researching the performance of the stocks that they own. He also wants them to diversify their stock holding. In order to do this, he needs to be able to organise and summarise the raw data that he downloads to show the stock performance of a variety of stocks over different years. He would like:<br>
 - The analysis be an automated process so that he does not spend time coding.<br>
 - To be able to see the performance of all the stocks for a particular year.
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+## Results: 
 ### Analysis of stock performance over 2017 & 2018:
 ![Results of Analysis for 2017](https://github.com/lallben/stock-analysis/blob/main/Resources/stock_analysis_2017.png)
 ![Results of Analysis for 2018](https://github.com/lallben/stock-analysis/blob/main/Resources/stock_analysis_2018.png)<br>
