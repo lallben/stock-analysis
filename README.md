@@ -1,9 +1,10 @@
 # stock-analysis
 ## Overview:
 Steve is a recent financial graduate aiming to help his parents with researching the performance of the stocks that they own. He also wants them to diversify their stock holding. In order to do this, he needs to be able to organise and summarise the raw data that he downloads to show the stock performance of a variety of stocks over different years. He would like:<br>
-<ul style=“list-style-type:circle”>	<li>The analysis be an automated process so that he does not spend time coding.</li>
-<li> To be able to see the performance of all the stocks for a particular year. </li> </ul>
+- The analysis be an automated process so that he does not spend time coding.<br>
+- To be able to see the performance of all the stocks for a particular year.
 ## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
 ## Summary:
 ### <i> Advantages or disadvantages of refactoring code.</i>
 Refactoring a code that was used previously for a similar project is advantageous in that it cuts down time. Howeever, the challenge with refactoring is always being aware of the logic and ensuring that the new code factors in the changes that you need. Refactoring does not mean that you do not need to think through the logic, because if you are not careful you may end up spending more time debugging and it may have been better to just start from scratch.<br>
